@@ -1,4 +1,4 @@
-# Library Management System – CS231 Assignment
+# Library Management System – CS253 Assignment
 
 This is a **Library Management System (LMS)** built using **Object‐Oriented Programming (OOP) concepts** in C++. The system demonstrates the principles of **encapsulation**, **inheritance**, **polymorphism**, and **abstraction**, supporting three user roles: **Students**, **Faculty**, and **Librarians**.
 
