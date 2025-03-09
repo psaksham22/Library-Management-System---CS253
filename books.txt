@@ -1,0 +1,10 @@
+1,The C++ Programming Language,Bjarne Stroustrup,Addison-Wesley,2013,9780321563842,0
+2,Clean Code,Robert C. Martin,Prentice Hall,2008,9780132350884,0
+3,Effective C++,Scott Meyers,O'Reilly,2005,9780321334879,0
+4,Design Patterns,Erich Gamma et al.,Addison-Wesley,1994,9780201633610,0
+5,Introduction to Algorithms,Cormen-Leiserson-Rivest-Stein,MIT Press,2009,9780262033848,0
+6,Programming Principles,Some Author,Some Publisher,2010,1111111111,0
+7,Data Structures,Another Author,Another Publisher,2011,2222222222,0
+8,Algorithms Unlocked,Thomas Cormen,MIT Press,2013,9780262518802,0
+9,Operating System Concepts,Silberschatz et al.,Wiley,2018,9781119456339,0
+10,Computer Networks,Andrew Tanenbaum,Pearson,2011,9780132126953,0
