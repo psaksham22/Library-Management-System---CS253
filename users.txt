@@ -1,0 +1,9 @@
+Student,101,Alice,0
+Student,102,Bob,0
+Student,103,Charlie,0
+Student,104,Diana,0
+Student,105,Evan,0
+Faculty,201,Professor X,0
+Faculty,202,Professor Y,0
+Faculty,203,Professor Z,0
+Librarian,301,Librarian A,0
